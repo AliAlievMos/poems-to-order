@@ -756,6 +756,7 @@ h1 svg {
 }
 .tags svg, .link-icon {
   vertical-align: middle;
+    text-decoration: none;
 }
 .balloon-icon {
   width: 0.75em;
